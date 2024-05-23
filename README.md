@@ -1,4 +1,4 @@
-﻿# Mailing-Bot(Telegram-bot-api/sequelize/sqlite)
+﻿# Mailing-Bot(Telegram-bot-api/sequelize/sqlite3)
  Телеграмм бот с возможностью рассылки всем подписанным пользователям.
  
  Для работы бота необходимо:
